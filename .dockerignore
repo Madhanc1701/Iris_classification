@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+mlruns/
+mlflow.db
+.git/
+*.md
+.gitignore
